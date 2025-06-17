@@ -41,3 +41,31 @@ Technology Solutions at Humber College, and I'm always looking for new challenge
 ![GitHub](https://img.shields.io/badge/-Github-000000?logo=Github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+
+
+
+
+## 💼 Experience
+
+### Full Stack Developer Intern | Credwise  
+**January 2025 – Present** · *Canada*  
+- Built a web app, **ImmigrateX**, using the **MERN** stack to help immigrants access housing, car rentals, and essential resources for transitioning to Canada.  
+- Designed and developed client onboarding features for realtors and car dealerships, including document uploads, soft credit checks, and service listings.  
+- Created checklists and resources for pre-arrival and post-arrival tasks like applying for SIN, health cards, and setting up essential services.
+
+---
+
+### Research Associate | Humber Polytechnic  
+**November 2024 – December 2024** · *Canada*  
+- Built a comprehensive resource library by collecting and verifying video resources, literature, and website articles to bridge theoretical knowledge with practical applications.  
+- Developed a specialized library of resources focused on **Advanced Java**, **C#**, **data structures**, and **design patterns**, supporting students and educators.
+
+---
+
+### Software Engineer | Coforge  
+**May 2021 – August 2023** · *India*  
+- Contributed to the successful execution of the **Lifewriter** project for a US-based insurance company, building responsive and user-friendly web interfaces.  
+- Utilized **Angular**, **Typescript**, **HTML**, **CSS**, **Spring Boot**, and **Postman** to create dynamic web applications.  
+- Collaborated with cross-functional teams and UI/UX designers to implement highly accessible, modern, and brand-compliant frontend elements.  
+- Engaged in **agile methodologies** and participated in sprint planning, daily stand-ups, and retrospectives.
