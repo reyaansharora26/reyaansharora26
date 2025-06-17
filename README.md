@@ -127,6 +127,11 @@ A website for practicing and showcasing coding projects.
 **Date:** March 16, 2025  
 A game featuring a challenging maze built with MakeCode Arcade.
 
+## contact
+<p>If you have any other questions</p>
+<p>or just want to say hi, feel free to send me an  <a href="mailto:reyaansharora2016@gmail.com" target="_blank" rel="noopener noreferrer">email</a></p>
+
+
 
 
 
