@@ -1,13 +1,12 @@
 ## 👋 Hi, I'm Reyaansh Arora!
 <p>
 <a href="https://reyaansharora26.github.io/reyaansharora26github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-blue?style=for-the-badge" alt="website" />
+  <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge" alt="Website" />
 </a>
 
 <a href="https://reyaansharora26.github.io/reyaansharora26github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-blue?style=for-the-badge" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge" alt="Portfolio" />
 </a>
-  
 </p>
 
 Welcome to my GitHub! I'm a passionate Full Stack Software Engineer with a strong foundation in frontend development and
