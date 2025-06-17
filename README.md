@@ -1,4 +1,8 @@
-## 👋 Hi, I'm Reyaansh arora!
+## 👋 Hi, I'm Reyaansh Arora!
+<a href="https://reyaansharora26.github.io/reyaansharora26github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-blue?style=for-the-badge" alt="Visit My Portfolio" />
+</a>
+
 Welcome to my GitHub! I'm a passionate Full Stack Software Engineer with a strong foundation in frontend development and
 expertise in modern web technologies like React.js, Angular, and Node.js. Currently, I'm honing my skills in Information
 Technology Solutions at Humber College, and I'm always looking for new challenges to further enhance my technical skills.
@@ -115,6 +119,19 @@ A website for practicing and showcasing coding projects.
 </a>  
 **Date:** March 16, 2025  
 A game featuring a challenging maze built with MakeCode Arcade.
+
+
+
+<style>
+  button {
+   padding: 5px;
+            margin: 10px;
+            border-radius: 5px;
+            background-color: blue;
+            color: #fff;
+            line-height: 2;
+  }
+</style>
 
 
 
