@@ -89,26 +89,32 @@ Technology Solutions at Humber College, and I'm always looking for new challenge
 
 
 ## Projects
-<p>
+## 🧩 Projects
+
+### Canada Quiz  
 <a href="https://reyaansharora26.github.io/canada-quiz-app/" target="_blank">
-  <img src="https://img.shields.io/badge/Launch%20Quiz-App-blue?style=for-the-badge" alt="Launch Canada Quiz App" />
-</a> <p>this project was made at april 5 2025 it is a canada quiz</p>
-</p>
-<h1></h1>
+  <img src="https://img.shields.io/badge/Canada%20Quiz-blue?style=for-the-badge" alt="Canada Quiz" />
+</a>  
+**Date:** April 5, 2025  
+A quiz game about Canada.
 
-<p>
+---
+
+### Best Coders  
 <a href="https://reyaansharora26.github.io/best%20coders/" target="_blank">
-  <img src="https://img.shields.io/badge/Launch%20Quiz-App-blue?style=for-the-badge" alt="best coders" />
-</a> <p>this project was made at may 1 2025 it is a website to do coding</p>
-</p>
-<h1></h1>
+  <img src="https://img.shields.io/badge/Best%20Coders-blue?style=for-the-badge" alt="Best Coders" />
+</a>  
+**Date:** May 1, 2025  
+A website for practicing and showcasing coding projects.
 
-<p>
+---
+
+### Infinite Maze  
 <a href="https://arcade.makecode.com/S43088-10913-67404-52003" target="_blank">
-  <img src="https://img.shields.io/badge/Launch%20Quiz-App-blue?style=for-the-badge" alt="infinate maze" />
-</a> <p>this project was made on march 16 2025 it is a game which has a maze</p>
-</p>
-<h1></h1>
+  <img src="https://img.shields.io/badge/Infinite%20Maze-blue?style=for-the-badge" alt="Infinite Maze Game" />
+</a>  
+**Date:** March 16, 2025  
+A game featuring a challenging maze built with MakeCode Arcade.
 
 
 
