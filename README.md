@@ -84,3 +84,14 @@ Technology Solutions at Humber College, and I'm always looking for new challenge
 ### Bharati Vidyapeeth's College of Engineering  
 **Bachelor of Technology**, Information Technology  
 **2018 – 2021** · *India*
+
+
+
+
+## Projects
+<a href="https://reyaansharora26.github.io/canada-quiz-app/" target="_blank">
+  <img src="https://img.shields.io/badge/Launch%20Quiz-App-blue?style=for-the-badge" alt="Launch Canada Quiz App" />
+</a>
+
+
+
