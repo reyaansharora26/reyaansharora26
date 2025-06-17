@@ -89,11 +89,12 @@ Technology Solutions at Humber College, and I'm always looking for new challenge
 
 
 ## Projects
-<p></p>
+<p>
 <a href="https://reyaansharora26.github.io/canada-quiz-app/" target="_blank">
   <img src="https://img.shields.io/badge/Launch%20Quiz-App-blue?style=for-the-badge" alt="Launch Canada Quiz App" />
-</a> <p>this project was made at april 5 2025 it is a canada quiq</p>
+</a> <p>this project was made at april 5 2025 it is a canada quiz</p>
 </p>
+
 
 
 
