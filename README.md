@@ -94,6 +94,25 @@ Technology Solutions at Humber College, and I'm always looking for new challenge
   <img src="https://img.shields.io/badge/Launch%20Quiz-App-blue?style=for-the-badge" alt="Launch Canada Quiz App" />
 </a> <p>this project was made at april 5 2025 it is a canada quiz</p>
 </p>
+<h1></h1>
+
+<p>
+<a href="https://reyaansharora26.github.io/best%20coders/" target="_blank">
+  <img src="https://img.shields.io/badge/Launch%20Quiz-App-blue?style=for-the-badge" alt="best coders" />
+</a> <p>this project was made at may 1 2025 it is a website to do coding</p>
+</p>
+<h1></h1>
+
+<p>
+<a href="https://arcade.makecode.com/S43088-10913-67404-52003" target="_blank">
+  <img src="https://img.shields.io/badge/Launch%20Quiz-App-blue?style=for-the-badge" alt="infinate maze" />
+</a> <p>this project was made on march 16 2025 it is a game which has a maze</p>
+</p>
+<h1></h1>
+
+
+
+
 
 
 
