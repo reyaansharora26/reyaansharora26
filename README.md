@@ -1,6 +1,6 @@
-@@ -13,9 +13,9 @@ Welcome to my GitHub! I'm a passionate Full Stack Software Engineer with a strong foundation in frontend development and
-@@ -13,9 +13,9 @@ expertise in modern web technologies like React.js, Angular, and Node.js. Currently, I'm honing my skills in Information
-@@ -13,9 +13,9 @@ Technology Solutions at Humber College, and I'm always looking for new challenges to further enhance my technical skills.
+Welcome to my GitHub! I'm a passionate Full Stack Software Engineer with a strong foundation in frontend development and
+expertise in modern web technologies like React.js, Angular, and Node.js. Currently, I'm honing my skills in Information
+ Technology Solutions at Humber College, and I'm always looking for new challenges to further enhance my technical skills.
 
 
 ### 🛠️ **Tech Stack**
