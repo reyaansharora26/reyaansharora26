@@ -5,7 +5,7 @@ Technology Solutions at Humber College, and I'm always looking for new challenge
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&show_icons=true&hide_border=true&layout=compact)
     
 
 ### 🛠️ **Tech Stack**
