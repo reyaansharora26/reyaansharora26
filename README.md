@@ -69,3 +69,18 @@ Technology Solutions at Humber College, and I'm always looking for new challenge
 - Utilized **Angular**, **Typescript**, **HTML**, **CSS**, **Spring Boot**, and **Postman** to create dynamic web applications.  
 - Collaborated with cross-functional teams and UI/UX designers to implement highly accessible, modern, and brand-compliant frontend elements.  
 - Engaged in **agile methodologies** and participated in sprint planning, daily stand-ups, and retrospectives.
+
+
+
+
+## 🎓 Education
+
+### Humber Polytechnic  
+**Graduate Certificate**, Information Technology Solutions  
+**2023 – 2025** · *Toronto, Canada*
+
+---
+
+### Bharati Vidyapeeth's College of Engineering  
+**Bachelor of Technology**, Information Technology  
+**2018 – 2021** · *India*
