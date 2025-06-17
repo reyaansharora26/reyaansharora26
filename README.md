@@ -99,7 +99,7 @@ Technology Solutions at Humber College, and I'm always looking for new challenge
 
 
 
-## Projects
+
 ## 🧩 Projects
 
 ### Canada Quiz  
@@ -129,16 +129,7 @@ A game featuring a challenging maze built with MakeCode Arcade.
 
 
 
-<style>
-  button {
-   padding: 5px;
-            margin: 10px;
-            border-radius: 5px;
-            background-color: blue;
-            color: #fff;
-            line-height: 2;
-  }
-</style>
+
 
 
 
